@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family:"courier new",courier,monospace;
+  
+background: -moz-linear-gradient(left, rgba(117,189,209,1) 0%, rgba(255,0,132,1) 76%, rgba(255,0,132,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(117,189,209,1)), color-stop(76%, rgba(255,0,132,1)), color-stop(100%, rgba(255,0,132,1)));
+background: -webkit-linear-gradient(left, rgba(117,189,209,1) 0%, rgba(255,0,132,1) 76%, rgba(255,0,132,1) 100%);
+background: -o-linear-gradient(left, rgba(117,189,209,1) 0%, rgba(255,0,132,1) 76%, rgba(255,0,132,1) 100%);
+background: -ms-linear-gradient(left, rgba(117,189,209,1) 0%, rgba(255,0,132,1) 76%, rgba(255,0,132,1) 100%);
+background: linear-gradient(to right, rgba(117,189,209,1) 0%, rgba(255,0,132,1) 76%, rgba(255,0,132,1) 100%);
+}
+
+
+button{
+	cursor: pointer;
+}
